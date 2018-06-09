@@ -1,0 +1,7 @@
+
+In Ubuntu Linux 16_04_LTS
+
+sudo apt-get install python-pip python-dev
+sudo apt-get install python3-pip python3-dev
+sudo pip install tensorflow
+
